@@ -1,0 +1,21 @@
+
+{
+  "short_name": "ЛазерМеталл",
+  "name": "ЛазерМеталл: Калькулятор резки",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3241/3241287.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3241/3241287.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF7F00",
+  "background_color": "#ffffff"
+}
